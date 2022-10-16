@@ -4,3 +4,4 @@ This is a simple file
 more text
 
 difftool test
+Merging practice
